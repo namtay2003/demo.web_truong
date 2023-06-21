@@ -188,6 +188,14 @@ header {
     background-color: var(--hover-color);
 }
 
+/* khung content */
+.content {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
 
 
 /* content-page-right */
